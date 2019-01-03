@@ -1,0 +1,30 @@
+.heading {
+    margin: 10px;
+    text-align: center;
+    background-color: white;
+}
+
+
+.young {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    
+    
+    
+}
+
+body {
+    background: url("https://img.huffingtonpost.com/asset/562a91761900002d00b94c88.jpeg?ops=scalefit_720_noupscale");
+    background-size: cover;
+    
+}
+
+.button {
+    text-align: center;   
+}  
+
+
+img {
+ width:300px;   
+}
